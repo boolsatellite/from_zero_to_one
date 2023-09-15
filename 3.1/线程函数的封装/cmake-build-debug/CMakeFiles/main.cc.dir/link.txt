@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g   CMakeFiles/main.cc.dir/zero_thread.cc.o CMakeFiles/main.cc.dir/main.cc.o  -o main.cc 
